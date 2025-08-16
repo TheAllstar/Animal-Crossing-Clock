@@ -13,6 +13,7 @@ HOW POSITIONING WORKS
 "200" pixels from the top of the screen
 "1080" pixels wide
 "720" pixels tall
+--This is the actual window, where it opens and the dimensions
 --If you put it in wrong it will default to this
 --If you make it too weird shaped the UI will blow up or something probably
 
