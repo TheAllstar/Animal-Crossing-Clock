@@ -27,4 +27,9 @@ HOW PLACEMENTS WORKS
 ONLY PUT HEX CODES IN THE COLORS.TXT
 
 
+THERE ARE TWO SLIDERS
+1: top right for volume
+2: middle of the screen, or what normally is at 1080x720 for the backgrounds
+
+
 Yep anyway thank you, God loves you and Jesus died for our sins.
