@@ -1,3 +1,5 @@
+THIS RUNS OFF PYTHON I BELIEVE YOU NEED THAT INSTALLED OR WHATEVER
+
 HOW BACKGROUNDS WORK:
 "2 ACNH.jpg"
 "2" is the number in which it will appear, because it's coding, it will appear +1, so it's the 3rd slide
