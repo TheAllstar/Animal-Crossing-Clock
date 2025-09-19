@@ -1,21 +1,24 @@
-HOW BACKGROUNDS WORK:
+THIS RUNS OFF PYTHON I BELIEVE YOU NEED THAT INSTALLED OR WHATEVER
+
+HOW THE BACKGROUNDS FOLDER WORKS:
 "2 ACNH.jpg"
 "2" is the number in which it will appear, because it's coding, it will appear +1, so it's the 3rd slide
 "ACNH" is the music type that plays, New Horizons, or New Leaf (ACNL)
 -- It has to be a .jpg
 
 
-HOW POSITIONING WORKS
+HOW POSITIONING.TXT WORKS
 "300 200 1920 1080"
 "300" pixels from the far left of the screen
 "200" pixels from the top of the screen
 "1080" pixels wide
 "720" pixels tall
+--This is the actual window, where it opens and the dimensions
 --If you put it in wrong it will default to this
 --If you make it too weird shaped the UI will blow up or something probably
 
 
-HOW PLACEMENTS WORKS
+HOW PLACEMENTS.TXT WORKS
 "0 35 524 905 599"
 "0" is the first in the order, followed by 1, 2, etc
 "35" is how far the clock will be from the left of the screen
@@ -23,8 +26,13 @@ HOW PLACEMENTS WORKS
 "905" is how far the on/off button will be from the left of the screen
 "599" is how far from the top of the screen the on/off button will be
 
+You can put your own colors in Colors.txt, as many or as few as you like
+ONLY PUT HEX CODES IN THOUGH
 
-ONLY PUT HEX CODES IN THE COLORS.TXT
+
+THERE ARE TWO SLIDERS
+1: top right for volume
+2: middle of the screen, or what normally is at 1080x720 for the backgrounds
 
 
 Yep anyway thank you, God loves you and Jesus died for our sins.
